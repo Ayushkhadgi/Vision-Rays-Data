@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Eyeglasses"
+    },
+    {
+        "id":2,
+        "category":"Sunglasses"
+    },
+    {
+        "id":3,
+        "category":"Computer Glasses"
+    },
+    {
+        "id":4,
+        "category":"Contact Lenses"
+    },
+    {
+        "id":5,
+        "category":"Photogray"
+    }
+]
