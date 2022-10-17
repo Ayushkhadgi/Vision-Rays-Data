@@ -3,350 +3,459 @@
         "id": 1,
         "name": "Ray-ban",
         "category_id": 1,
+        "brand_id":1,
+        "product_id":4,
         "image": "https://i.ibb.co/ng4f1JS/ray-ban-eyeglasses.png",
-        "info": "Discover the full Ray-Ban eyeglasses collection featuring stylish glasses and frames for men and women."
+        "info": "Discover the full Ray-Ban eyeglasses collection featuring stylish glasses and frames for men and women.",
+        "cost":999
     },
     {
         "id": 2,
         "name": "Vincent Chase",
         "category_id": 1,
+        "brand_id":2,
+        "product_id":7,
         "image": "https://i.ibb.co/sPxzQkD/vincent-chase-vc-e14036-c2-eyeglasses-26-nov-vc-female-theme19876-148491.jpg",
-        "info": "The design of Vincent chase eyeglasses for Eyeglasses for men are quite study yet elegant."
+        "info": "The design of Vincent chase eyeglasses for Eyeglasses for men are quite study yet elegant.",
+        "cost":1299
     },
     {
         "id": 3,
         "name": "Tommy Hilfiger",
         "category_id": 1,
+        "brand_id":5,
+        "product_id":9,
         "image": "https://i.ibb.co/JknfGDq/TOMMY-HILFIGER-TH1064-C1-1.jpg",
-        "info": "Tommy Hilfiger is good pair of eyeglass frames can change the way you feel about your day, about wearing your glasses, and about how you feel about yourself as well. "
+        "info": "Tommy Hilfiger is good pair of eyeglass frames can change the way you feel about your day, about wearing your glasses, and about how you feel about yourself as well. ",
+        "cost":2099
     },
     {
         "id": 4,
         "name": "John Jacobs",
         "category_id": 1,
+        "product_id":45,
         "image": "https://i.ibb.co/S7VGBn9/john-jacobs-jj-e12632-c1-eyeglasses-7i5a1561-lk1.jpg",
-        "info": "John Jacobs makes some of the most stylish eyewear.Their quality considering their prices is unmatched in India, truly my go-to brand for eyewear."
+        "info": "John Jacobs makes some of the most stylish eyewear.Their quality considering their prices is unmatched in India, truly my go-to brand for eyewear.",
+        "cost":1499
     },
     {
         "id": 5,
         "name": "Boss Orange",
         "category_id": 1,
+        "product_id":15,
         "image": "https://i.ibb.co/Sx4phP7/boss-orange.jpg",
-        "info": "Boss Orange eyeglasses carry true German style and Italian quality. Made from high quality acetate or stainless steel, Boss Orange glasses will last you for years to come."
+        "info": "Boss Orange eyeglasses carry true German style and Italian quality. Made from high quality acetate or stainless steel, Boss Orange glasses will last you for years to come.",
+        "cost":1999
     },
     {
         "id": 6,
         "name": "Peter Jones",
         "category_id": 1,
+        "product_id":11,
         "image": "https://i.ibb.co/XF2j6RP/peter-jones.jpg",
-        "info": "The lens was made of a fully transparent base, without adding any pigment, while maintaining high light transmittance. Less reflective,no affect reading, and almost no color difference."
+        "info": "The lens was made of a fully transparent base, without adding any pigment, while maintaining high light transmittance. Less reflective,no affect reading, and almost no color difference.",
+        "cost":899
     },
     {
         "id": 7,
         "name": "Ted Smith",
         "category_id": 1,
+        "product_id":2,
         "image": "https://i.ibb.co/pR4ynmW/ted-smith.jpg",
-        "info": "The Ted Smith Eyewear collection mixes heritage silhouettes with creative fashion twerks."
+        "info": "The Ted Smith Eyewear collection mixes heritage silhouettes with creative fashion twerks.",
+        "cost":1149
     },
     {
         "id": 8,
         "name": "Titan Eye Plus",
         "category_id": 1,
+        "brand_id":6,
+        "product_id":3,
         "image": "https://i.ibb.co/HdkhW0W/titan.jpg",
-        "info": "Fashionable eyewear for kids,teens & adults at all size & shape.Branded & Trending Eyewear at Low price."
+        "info": "Fashionable eyewear for kids,teens & adults at all size & shape.Branded & Trending Eyewear at Low price.",
+        "cost":799
     },
     {
         "id": 9,
         "name": "Fastrack",
         "category_id": 1,
+        "brand_id":3,
+        "product_id":5,
         "image": "https://i.ibb.co/XWW8zJz/fastrack.jpg",
-        "info": "We offer premium quality products at genuine prices that carry value for your money and provide maximum customer satisfaction at the same time."
+        "info": "We offer premium quality products at genuine prices that carry value for your money and provide maximum customer satisfaction at the same time.",
+        "cost":999
     },
     {
         "id": 10,
         "name": "Tomford",
         "category_id": 1,
+        "product_id":6,
         "image": "https://i.ibb.co/BqZY0jJ/tomford.jpg",
-        "info": "Tom Ford eyeglasses are beloved for their timeless design and their masterful fusion of vintage glamor with modern sophistication."
+        "info": "Tom Ford eyeglasses are beloved for their timeless design and their masterful fusion of vintage glamor with modern sophistication.",
+        "cost":1399
     },
     {
         "id": 1,
         "name": "Ray-ban",
         "category_id": 2,
+        "brand_id":1,
+        "product_id":8,
         "image": "https://i.ibb.co/VTLLCFj/rayy-ban.jpg",
-        "info": "Discover the most iconic Ray-Ban sunglasses frames like Aviator, Wayfarer, Clubmaster, Round, New Wayfarer and many more.In addition,create your one Ray-Ban sunglasses and customize them with Remix."
+        "info": "Discover the most iconic Ray-Ban sunglasses frames like Aviator, Wayfarer, Clubmaster, Round, New Wayfarer and many more.In addition,create your one Ray-Ban sunglasses and customize them with Remix.",
+        "cost":2599
     },
     {
         "id": 2,
         "name": "Get Glamr",
         "category_id": 2,
+        "product_id":10,
         "image": "https://i.ibb.co/8mNSQVw/get-glamr.jpg",
-        "info": "Get Glamr is UV Protected Unisex Sunglasses.Buy it at best Price."
+        "info": "Get Glamr is UV Protected Unisex Sunglasses.Buy it at best Price.",
+        "cost":4999
     },
     {
         "id": 3,
         "name": "Royal Son",
         "category_id": 2,
+        "product_id":12,
         "image": "https://i.ibb.co/ctXRz1j/royal-son.jpg",
-        "info": "Royal Son have sunglasses in different frames, shapes and styles, so you can pick one as per your needs."
+        "info": "Royal Son have sunglasses in different frames, shapes and styles, so you can pick one as per your needs.",
+        "cost":2199
     },
     {
         "id": 4,
         "name": "Fastrack",
         "category_id": 2,
+        "brand_id":3,
+        "product_id":14,
         "image": "https://i.ibb.co/1ZfdsYB/fastrackk.webp",
-        "info": "Shop the best eyewear from the best eyewear company fastrack Eyewear and get the best deals on glasses frames, sunglasses and spectacles."
+        "info": "Shop the best eyewear from the best eyewear company fastrack Eyewear and get the best deals on glasses frames, sunglasses and spectacles.",
+        "cost":1499
     },
     {
         "id": 5,
         "name": "The Roadster",
         "category_id": 2,
+        "product_id":18,
         "image": "https://i.ibb.co/bQQNjJt/the-roadster.jpg",
-        "info": "The Roadster sunglasses are polarized sunglasses. Perfect for wearing under a helmet, but also for an everyday look. The frame of the glasses is available in black, green, tabby, and grey."
+        "info": "The Roadster sunglasses are polarized sunglasses. Perfect for wearing under a helmet, but also for an everyday look. The frame of the glasses is available in black, green, tabby, and grey.",
+        "cost":899
     },
     {
         "id": 6,
         "name": "Voyage",
         "category_id": 2,
+        "product_id":50,
         "image": "https://i.ibb.co/2MQwNrq/voyage.jpg",
-        "info": "Keep your style in check with a pair of this crystal rectangle sunglasses from Voyage. This black pair can be worn with denim shorts and a solid tee when you're going out to lunch with your friends."
+        "info": "Keep your style in check with a pair of this crystal rectangle sunglasses from Voyage. This black pair can be worn with denim shorts and a solid tee when you're going out to lunch with your friends.",
+        "cost":1899
     },
     {
         "id": 7,
         "name": "Camerii",
         "category_id": 2,
+        "product_id":55,
         "image": "https://i.ibb.co/dLt8sdm/camerii.jpg",
-        "info": "These coloured sunglasses from the house of camerii will never let you down in terms of style. These half-rim sunglasses are lightweight and long lasting. These uv-protected sunglasses will protect your eyes from the harmful sunrays and pollution. Team these with your casual attire to look stunning."
+        "info": "These coloured sunglasses from the house of camerii will never let you down in terms of style. These half-rim sunglasses are lightweight and long lasting. These uv-protected sunglasses will protect your eyes from the harmful sunrays and pollution. Team these with your casual attire to look stunning.",
+        "cost":2699
     },
     {
         "id": 8,
         "name": "Vincent Chase Polarized",
         "category_id": 2,
+        "brand_id":2,
+        "product_id":60,
         "image": "https://i.ibb.co/YXypcVr/vincent-chase-polarized.jpg",
-        "info": "The Vincent Chase Vintage Polarized range to the rescue. These polarized sunnies have a unique chemical film coating that is specially designed to reduce glare from the intense reflected sun’s rays which can interfere with our vision."
+        "info": "The Vincent Chase Vintage Polarized range to the rescue. These polarized sunnies have a unique chemical film coating that is specially designed to reduce glare from the intense reflected sun’s rays which can interfere with our vision.",
+        "cost":8999
     },
     {
         "id": 9,
         "name": "Versace",
         "category_id": 2,
+        "product_id":65,
         "image": "https://i.ibb.co/h870QKw/versace.webp",
-        "info": "Versace’s line of prescription glasses and sunglasses is inspired by both vintage styles and current contemporary designs, combining technical innovation with the Versace brand’s essence: classic luxury and fearless design."
+        "info": "Versace’s line of prescription glasses and sunglasses is inspired by both vintage styles and current contemporary designs, combining technical innovation with the Versace brand’s essence: classic luxury and fearless design.",
+        "cost":2222
     },
     {
         "id": 10,
         "name": "Burberry",
         "category_id": 2,
+        "brand_id":4,
+        "product_id":70,
         "image": "https://i.ibb.co/HPDxn8M/burberry.jpg",
-        "info": "Burberry sunglasses have a distinctive blend of design and craftsmanship that appeals to both men and women. Burberry reinterprets classic British style in a modern and startling way yet still offers a classic look. If you appreciate practical and simple beauty, these shades are for you."
+        "info": "Burberry sunglasses have a distinctive blend of design and craftsmanship that appeals to both men and women. Burberry reinterprets classic British style in a modern and startling way yet still offers a classic look. If you appreciate practical and simple beauty, these shades are for you.",
+        "cost":11999
     },
     {
         "id": 1,
         "name": "Prospek",
         "category_id": 3,
+        "product_id":44,
         "image": "https://i.ibb.co/cy3hYrh/prospek.jpg",
-        "info": "Redirects blue light away from eyes.Very lightweight lenses includes a protective case and cleaning cloth."
+        "info": "Redirects blue light away from eyes.Very lightweight lenses includes a protective case and cleaning cloth.",
+        "cost":1299
     },
     {
         "id": 2,
         "name": "Gamma Ray",
         "category_id": 3,
+        "product_id":92,
         "image": "https://i.ibb.co/8XqXXDK/Gamma-Ray.jpg",
-        "info": "Effective against eyestrain headaches. Lenses are light yellow, not a dark tint. Good correction as reading glasses."
+        "info": "Effective against eyestrain headaches. Lenses are light yellow, not a dark tint. Good correction as reading glasses.",
+        "cost":999
     },
     {
         "id": 3,
         "name": "Swanwick Sleep",
         "category_id": 3,
+        "product_id":38,
         "image": "https://i.ibb.co/dL6jG4w/swanwick.jpg",
-        "info": "Extremely effective blue light blockage. Noticeable sleep improvement reported."
+        "info": "Extremely effective blue light blockage. Noticeable sleep improvement reported.",
+        "cost":1288
     },
     {
         "id": 4,
         "name": "ElementsActive",
         "category_id": 3,
+        "product_id":22,
         "image": "https://i.ibb.co/TKkpVr1/elements-active.webp",
-        "info": "Designed to fit over most frame styles. Reduces dry eye and headaches. Blue-blocking tint is not just a coating. Thin polymer lenses add minimal weight to the wearer's original frames."
+        "info": "Designed to fit over most frame styles. Reduces dry eye and headaches. Blue-blocking tint is not just a coating. Thin polymer lenses add minimal weight to the wearer's original frames.",
+        "cost":1800
     },
     {
         "id": 5,
         "name": "Eyekepper",
         "category_id": 3,
+        "product_id":36,
         "image": "https://i.ibb.co/tP96gW2/eyekepper.jpg",
-        "info": "Lenses address fluorescent light issues. Stylish retro tortoiseshell frames. Higher corrective strengths available. Super-low price."
+        "info": "Lenses address fluorescent light issues. Stylish retro tortoiseshell frames. Higher corrective strengths available. Super-low price.",
+        "cost":1400
     },
     {
         "id": 6,
         "name": "Cryzal",
         "category_id": 3,
+        "product_id":17,
         "image": "https://i.ibb.co/YdTSZJ1/cryzal.jpg",
-        "info": "Providing protection against reflection, scratches, smudges, dust, water, UV and other enemies of clear vision, Crizal anti-reflection lenses can help you see better, look better, and feel better."
+        "info": "Providing protection against reflection, scratches, smudges, dust, water, UV and other enemies of clear vision, Crizal anti-reflection lenses can help you see better, look better, and feel better.",
+        "cost":4999
     },
     {
         "id": 7,
         "name": "Progressive",
         "category_id": 3,
+        "product_id":89,
         "image": "https://i.ibb.co/2gQ7Dp0/progressive.jpg",
-        "info": "Progressive lenses are the updated version of the bifocal and trifocal lenses. Both of these traditional style lenses have visible lines in the lens. Progressive lenses have a seamless look."
+        "info": "Progressive lenses are the updated version of the bifocal and trifocal lenses. Both of these traditional style lenses have visible lines in the lens. Progressive lenses have a seamless look.",
+        "cost":3500
     },
     {
         "id": 8,
         "name": "Poly",
         "category_id": 3,
+        "product_id":74,
         "image": "https://i.ibb.co/yVNT6Fw/poly.jpg",
-        "info": "Polycarbonate lenses are distinguished by their resilient, shatterproof, and built-in scratch-resistant properties."
+        "info": "Polycarbonate lenses are distinguished by their resilient, shatterproof, and built-in scratch-resistant properties.",
+        "cost":2500
     },
     {
         "id": 9,
         "name": "Photosun",
         "category_id": 3,
+        "product_id":61,
         "image": "https://i.ibb.co/ckvWpNj/photosun.webp",
-        "info": "Active and Faster adaptation to environmental changes (indoor, outdoor, high or low brightness)."
+        "info": "Active and Faster adaptation to environmental changes (indoor, outdoor, high or low brightness).",
+        "cost":2900
     },
     {
         "id": 10,
         "name": "Blue-Block",
         "category_id": 3,
+        "product_id":83,
         "image": "https://i.ibb.co/sW3fnJN/blueblock.jpg",
-        "info": "Blue blocking lens is also called as digital screen protection, computer screen protection, smartphone screen protection.Blue light glasses and lenses sincerely use a blue light filter coating."
+        "info": "Blue blocking lens is also called as digital screen protection, computer screen protection, smartphone screen protection.Blue light glasses and lenses sincerely use a blue light filter coating.",
+        "cost":3000
     },
     {
         "id": 1,
         "color": "Turquoise",
         "category_id": 4,
+        "product_id":35,
         "image": "https://i.ibb.co/F0n5hQV/turq.webp",
-        "info": "This is a signature color that will match your ensemble in the most admirable manner. Being a brighter shade of blue, these colored lenses in the turquoise blue shade illuminate the eyes perfectly."
+        "info": "This is a signature color that will match your ensemble in the most admirable manner. Being a brighter shade of blue, these colored lenses in the turquoise blue shade illuminate the eyes perfectly.",
+        "cost":999
     },
     {
         "id": 2,
         "color": "Pure Hazel",
         "category_id": 4,
+        "product_id":40,
         "image": "https://i.ibb.co/8zK5G8j/pure-hazel.webp",
-        "info": "Pure hazel contacts are one of the most popular types of cosmetic lenses. This color is often associated with mystery and exoticism, making these contacts perfect for dates or any occasion."
+        "info": "Pure hazel contacts are one of the most popular types of cosmetic lenses. This color is often associated with mystery and exoticism, making these contacts perfect for dates or any occasion.",
+        "cost":999
     },
     {
         "id": 3,
         "color": "Green",
         "category_id": 4,
+        "product_id":45,
         "image": "https://i.ibb.co/xgvLw1W/green.jpg",
-        "info": "Green contact lenses give you the gift of exclusivity with their charisma. Available in varied shades of the same color, there is one for everybody – whether you want to dawn the bold look with fierce green or the subtle yet soothing look with the gemstone green"
+        "info": "Green contact lenses give you the gift of exclusivity with their charisma. Available in varied shades of the same color, there is one for everybody – whether you want to dawn the bold look with fierce green or the subtle yet soothing look with the gemstone green",
+        "cost":999
     },
     {
         "id": 4,
         "color": "Brown",
         "category_id": 4,
+        "product_id":56,
         "image": "https://i.ibb.co/6WsD7z1/brown.jpg",
-        "info": "The timeless Brown Contact Lenses Brown is the color of the season, the new black, and a lot less predictable. It is the easiest shade on the color wheel and a trending fashion in formal workplaces."
+        "info": "The timeless Brown Contact Lenses Brown is the color of the season, the new black, and a lot less predictable. It is the easiest shade on the color wheel and a trending fashion in formal workplaces.",
+        "cost":999
     },
     {
         "id": 5,
         "color": "Gray",
         "category_id": 4,
+        "product_id":77,
         "image": "https://i.ibb.co/2nzLbtj/gray.jpg",
-        "info": "Grey is a versatile color with its own magnetism. Colored contact lenses in grey give a well-balanced neutral undertone to any style statement. They make for a natural choice for that soft, subtle look."
+        "info": "Grey is a versatile color with its own magnetism. Colored contact lenses in grey give a well-balanced neutral undertone to any style statement. They make for a natural choice for that soft, subtle look.",
+        "cost":999
     },
     {
         "id": 6,
         "color": "Brilliant Blue",
         "category_id": 4,
+        "product_id":88,
         "image": "https://i.ibb.co/vHJ8rvx/brilliant-blue.jpg",
-        "info": "The ‘brilliant blue’ is a brighter and bolder version of the classic blue that would enhance your style anywhere. The intricate Hues of Blue – Available in the Bausch & Lomb Lacelle Colors Collection, these contact lenses have delicately patterned designs on them, giving the appearance of bigger and bolder eyes."
+        "info": "The ‘brilliant blue’ is a brighter and bolder version of the classic blue that would enhance your style anywhere. The intricate Hues of Blue – Available in the Bausch & Lomb Lacelle Colors Collection, these contact lenses have delicately patterned designs on them, giving the appearance of bigger and bolder eyes.",
+        "cost":999
     },
     {
         "id": 7,
         "color": "Amethyst",
         "category_id": 4,
+        "product_id":99,
         "image": "https://i.ibb.co/LdYBNwr/amethyst.jpg",
-        "info": "Amethyst, from the COLORBLENDS collection, is a monthly lens that combines purple, brown, and tones of yellow for a one of a kind look. We’d bet this shade will become your new favorite when it comes to colored contacts!"
+        "info": "Amethyst, from the COLORBLENDS collection, is a monthly lens that combines purple, brown, and tones of yellow for a one of a kind look. We’d bet this shade will become your new favorite when it comes to colored contacts!",
+        "cost":999
     },
     {
         "id": 8,
         "color": "True Sapphire",
         "category_id": 4,
+        "product_id":33,
         "image": "https://i.ibb.co/DWWywsp/true-sapphire.jpg",
-        "info": "With the combination of vibrant color and comfort features, the Freshlook Colorblends True Sapphire Colored Contact Lenses are the perfect everyday use contacts."
+        "info": "With the combination of vibrant color and comfort features, the Freshlook Colorblends True Sapphire Colored Contact Lenses are the perfect everyday use contacts.",
+        "cost":999
     },
     {
         "id": 9,
         "color": "Honey",
         "category_id": 4,
+        "product_id":73,
         "image": "https://i.ibb.co/vXNdrbR/honey.jpg",
-        "info": "The Freshlook Colorblends Honey Colored Contact Lenses are designed for comfort too with soft thin material that is designed for UV protection and breathability."
+        "info": "The Freshlook Colorblends Honey Colored Contact Lenses are designed for comfort too with soft thin material that is designed for UV protection and breathability.",
+        "cost":999
     },
     {
         "id": 10,
         "color": "Light Blue",
         "category_id": 4,
+        "product_id":26,
         "image": "https://i.ibb.co/svbJrnz/light-blue.jpg",
-        "info": "The hints of blue color will give an electric or lightning blue style to your eyes. The Blue Solar Colored Contact Lenses are perfect for subtly changing your eye color for a brand new universe inspired shade."
+        "info": "The hints of blue color will give an electric or lightning blue style to your eyes. The Blue Solar Colored Contact Lenses are perfect for subtly changing your eye color for a brand new universe inspired shade.",
+        "cost":999
     },
     {
         "id": 1,
         "name": "RX Safety",
         "category_id": 5,
+        "product_id":41,
         "image": "https://i.ibb.co/mzVxmW8/rx.jpg",
-        "info": "One of the really cool things about photochromic lenses is that they are available in just about every lens material and design that you could ask. This includes progressive lenses, bifocals, and high index lenses."
+        "info": "One of the really cool things about photochromic lenses is that they are available in just about every lens material and design that you could ask. This includes progressive lenses, bifocals, and high index lenses.",
+        "cost":1369
     },
     {
         "id": 2,
         "name": "Grey Jack",
         "category_id": 5,
+        "product_id":44,
         "image": "https://i.ibb.co/RjGYzKK/grey-jack.jpg",
-        "info": "When you want to shield your eyes, you can also enjoy peace of mind that the photochromic lenses will block out 100% of both UVA and UVB rays from the sun."
+        "info": "When you want to shield your eyes, you can also enjoy peace of mind that the photochromic lenses will block out 100% of both UVA and UVB rays from the sun.",
+        "cost":1489
     },
     {
         "id": 3,
         "name": "Spexx",
         "category_id": 5,
+        "product_id":46,
         "image": "https://i.ibb.co/8rNKSgg/spexx.jpg",
-        "info": "Even though photochromic lenses are going to be more expensive than traditional eyeglass lenses, they are actually the more valuable option. This is because you won’t have to have a pair of reading glasses and a pair of prescription sunglasses. You can simply have one pair of glasses everywhere you go because the lenses will adapt to where you are."
+        "info": "Even though photochromic lenses are going to be more expensive than traditional eyeglass lenses, they are actually the more valuable option. This is because you won’t have to have a pair of reading glasses and a pair of prescription sunglasses. You can simply have one pair of glasses everywhere you go because the lenses will adapt to where you are.",
+        "cost":2499
     },
     {
         "id": 4,
         "name": "Vast",
         "category_id": 5,
+        "product_id":32,
         "image": "https://i.ibb.co/G3TGGPv/vast.jpg",
-        "info": "It is one of the lines from Corning, and they offer superior scratch resistance at the same time."
+        "info": "It is one of the lines from Corning, and they offer superior scratch resistance at the same time.",
+        "cost":1999
     },
     {
         "id": 5,
         "name": "Intellilens",
         "category_id": 5,
+        "product_id":27,
         "image": "https://i.ibb.co/khjtLkC/intellilens.jpg",
-        "info": "you can find the glass lenses in both gray and brown tint."
+        "info": "you can find the glass lenses in both gray and brown tint.",
+        "cost":1759
     },
     {
         "id": 6,
         "name": "Optify",
         "category_id": 5,
+        "product_id":16,
         "image": "https://i.ibb.co/ZzmJ0fV/optify.jpg",
-        "info": "This allows you to gain the aesthetics that you desire without having to compromise on your personal style."
+        "info": "This allows you to gain the aesthetics that you desire without having to compromise on your personal style.",
+        "cost":2355
     },
     {
         "id": 7,
         "name": "Bovc",
         "category_id": 5,
+        "product_id":63,
         "image": "https://i.ibb.co/gPfzfqj/bovc.jpg",
-        "info": "Photogray extra glass lenses are technologically advanced transition lenses that make it easier to go from indoors to outdoors without having to make the switch to a different pair of glasses."
+        "info": "Photogray extra glass lenses are technologically advanced transition lenses that make it easier to go from indoors to outdoors without having to make the switch to a different pair of glasses.",
+        "cost":777
     },
     {
         "id": 8,
         "name": "Anemone",
         "category_id": 5,
+        "product_id":78,
         "image": "https://i.ibb.co/60PCVvr/anemone.jpg",
-        "info": "They are an excellent choice when you move from dark to light areas frequently, or if you have certain eye problems. Photo gray lenses are also called photochromic lenses or variable-tint lenses"
+        "info": "They are an excellent choice when you move from dark to light areas frequently, or if you have certain eye problems. Photo gray lenses are also called photochromic lenses or variable-tint lenses",
+        "cost":2644
     },
     {
         "id": 9,
         "name": "Eyewear Stylez",
         "category_id": 5,
+        "product_id":94,
         "image": "https://i.ibb.co/zV2X644/eyewear-stylez.jpg",
-        "info": "Eyewear Stylez offers you a wide variety of Frames to choose from. Eye Glasses are very essential and the Quality is of Paramount for Us. And to provide you the best Quality all our lenses are made through computerized process."
+        "info": "Eyewear Stylez offers you a wide variety of Frames to choose from. Eye Glasses are very essential and the Quality is of Paramount for Us. And to provide you the best Quality all our lenses are made through computerized process.",
+        "cost":1899
     },
     {
         "id": 10,
         "name": "Kalevel",
         "category_id": 5,
+        "product_id":49,
         "image": "https://i.ibb.co/DGTxYVt/kalevel.jpg",
-        "info": "A pair of Black Frame photochromic glasses changes color to adapt light and provide a natural automatically and quickly when you in outdoor or home. Perfect for outdoor activities, such as driving, travel, fishing, climbing, etc."
+        "info": "A pair of Black Frame photochromic glasses changes color to adapt light and provide a natural automatically and quickly when you in outdoor or home. Perfect for outdoor activities, such as driving, travel, fishing, climbing, etc.",
+        "cost":1600
     }
 ]
